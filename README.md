@@ -1,3 +1,3 @@
 # Quiz-App
 
-This is quiz app which asks queations and predict your personality 
+This is quiz app which asks queations and predict your personality according to your anwers..
